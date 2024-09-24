@@ -1,1 +1,1 @@
-<h1>Python Web App - Stock Prediction</h1>
+<h3>Python Web App - Stock Prediction</h3>
